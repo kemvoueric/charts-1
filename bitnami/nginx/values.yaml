@@ -168,7 +168,7 @@ cloneStaticSiteFromGit:
 
 ## Number of replicas to deploy
 ##
-replicaCount: 1
+replicaCount: 10
 
 ## Pod extra labels
 ## ref: https://kubernetes.io/docs/concepts/overview/working-with-objects/labels/
